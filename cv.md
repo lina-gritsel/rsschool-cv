@@ -1,4 +1,4 @@
-# Lna Hrytsel
+# Lina Hrytsel
 ### Junior Frontend Developer
 ## Contact information:
 
